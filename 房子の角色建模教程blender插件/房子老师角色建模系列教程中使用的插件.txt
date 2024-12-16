@@ -1,0 +1,21 @@
+使用的插件▼
+①AutoMirror: 标准（blender内置插件）
+②LoopTools: 标准（blender内置插件）
+③Edge Flow
+④Hide Only Vertex
+⑤Copy Attributes Menu: 标准（blender内置插件）
+⑥允许您注册画笔混合模式快捷方式的附加组件
+
+
+骨骼
+⑦VRM Import Export
+
+UV展開
+⑧TexTools
+⑨UV Checker Map Maker
+⑩Magic UV: 标准（blender内置插件）
+⑪CheckToolBox
+
+材质
+⑫Auto Reload
+
